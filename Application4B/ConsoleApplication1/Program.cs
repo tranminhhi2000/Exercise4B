@@ -9,17 +9,17 @@ namespace Exercise4b
 {
     public class Program2
     {
-        static void Main(string[] args)
-        {
-            //int[] array = new int[10];
-            //InputValue(array);
-            Console.WriteLine();
-            Drawing.drawU(20);
-            //Drawing.drawW(12);
-            Console.ReadKey();
+        //static void Main(string[] args)
+        //{
+        //    //int[] array = new int[10];
+        //    //InputValue(array);
+        //    //Console.WriteLine();
+        //    //Drawing.drawU(20);
+        //    //Drawing.DrawW(10);
+        //    Console.ReadKey();
 
 
-        }
+        //}
         public static void InputValue(int[] iArr)
         {
             for (int i = 0; i < iArr.Length; i++)
